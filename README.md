@@ -16,12 +16,12 @@ I build web applications using Laravel, PHP, MySQL, and modern web technologies.
 ### 1. Laravel E-Commerce Management System
 Product management, shopping cart, checkout, order management, and admin dashboard.
 
-[View Project](https://github.com/samina2108/laravel-ecommerce-management-system) · [Live Demo](https://ecommerceshop.site.je/shop)
+[View Project](https://github.com/samina2108/laravel-ecommerce-management-system) · [Live Demo](https://ecomerceshop.site.je/shop)
 
 ### 2. Service Booking Management System
 Service and customer management, bookings, payment status, invoices, activity logs, and role-based access.
 
-[View Project](https://github.com/samina2108/service-booking-management-system)
+[View Project](https://github.com/samina2108/service-booking-management-system) .[Live Demo](https://https://servicebookingsystem.site.je)
 
 ### 3. Laravel Admin User Management
 User CRUD, search, status management, pagination, and CSV export.
