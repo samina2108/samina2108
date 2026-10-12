@@ -21,7 +21,7 @@ Product management, shopping cart, checkout, order management, and admin dashboa
 ### 2. Service Booking Management System
 Service and customer management, bookings, payment status, invoices, activity logs, and role-based access.
 
-[View Project](https://github.com/samina2108/service-booking-management-system) .[Live Demo](https://https://servicebookingsystem.site.je)
+[View Project](https://github.com/samina2108/service-booking-management-system) .[Live Demo]((https://servicebookingsystem.site.je/?i=1))
 
 ### 3. Laravel Admin User Management
 User CRUD, search, status management, pagination, and CSV export.
